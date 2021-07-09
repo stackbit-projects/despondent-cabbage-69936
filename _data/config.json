@@ -38,7 +38,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/nidogski.png",
+                "image": "images/nidogski-dark.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Stackbit theme demo"
