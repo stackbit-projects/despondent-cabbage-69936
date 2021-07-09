@@ -21,11 +21,6 @@
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
             }
         ]
     },
